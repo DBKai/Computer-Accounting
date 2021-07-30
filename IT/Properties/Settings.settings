@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IT.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=localhost;Database=it;User=root;Password=123456789;</Value>
+    </Setting>
+    <Setting Name="ReportConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Driver={MySQL ODBC 5.2 ANSI Driver};Server=localhost;Database=it;User=root;Password=123456789;Socket=MySQL;Option=3;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
